@@ -1,0 +1,18 @@
+.btn {
+  width: 58px;
+  height: 130px;
+  margin: 50px;
+  border-radius: 6px;
+  border-color: aqua;
+  color: aqua;
+  background-color: black;
+  font-size: x-large;
+
+}
+
+body {
+  background-color: teal;
+}
+.App{
+  color:red;
+}
